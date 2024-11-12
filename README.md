@@ -2,7 +2,7 @@
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
 ### PROBLEM STATEMENT:
-1. An E-Ticket (Electronic ticket) is a paperless electronic document used for ticketing
+1. An E-Ticket (Electronic ticket) is a paperles electronic document used for ticketing
 passengers, particularly in the commercial airline, railway industries.
 2. An E-Ticket offers many advantages for both travelers and airline including security,
 flexibility and cost convenience. At the same time, it also provides the standard assurance of
