@@ -6,7 +6,7 @@ To develop the Railway Reservation System using Star UML tool.
 passengers, particularly in the commercial airline, railway industries.
 2. An E-Ticket offers many advantages for both travelers and airline including security,
 flexibility and cost convenience. At the same time, it also provides the standard assurance of
-the traditional paper ticket, scaling choice, travel time options and other flexibilities.
+the traditional paper ticket, scaling choice, travel time option and other flexibilities.
 3. Passengers typically print out copies of their E-Ticket including confirmation E-mail
 and other document. All those documents can be replaced by pulling them out of the computer
 again and only a person with proper identification can actually use an E-Ticket.
